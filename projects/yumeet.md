@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/bootstrap-icons.svg
 title: "Yumeet"
-date: 2020
+date: 2022
 published: true
 labels:
   - Next.js
