@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![image](https://github.com/HugoCaulfield/hugocaulfield.github.io/assets/33220892/22a3ed26-2cb4-46c0-891d-755eedf3460f)
+image: img/bootstrap-icons.svg
 title: "Ovwap"
 date: 2023
 published: true
