@@ -1,114 +1,129 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
+    "name": "Hugo Caulfield",
+    "label": "Freelance",
+    "picture": "https://dam.malt.com/208225fc-0621-44f4-a9c7-fafd6e65dc2a?gravity=face&func=face&face_margin=70&w=440&h=440&force_format=webp",
+    "email": "hugo.caulfield@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "website": "https://hugocaulfield.github.io",
+    "summary": "J'interviens sur des missions fullstack. Je vous propose un accompagnement du développement de votre projet à sa mise en production. React.js / Vue.js / Angular - Node.js / Express",
+    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "FRA", "region": "France" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "Github", "username": "Hugo Caulfield", "url": "https://github.com/HugoCaulfield" },
+      { "network": "Linkedin", "username": "Hugo Caulfield", "url": "https://www.linkedin.com/in/hugo-caulfield-a07017187/" },
+      { "network": "Malt", "username": "Hugo Caulfield", "url": "https://www.malt.fr/profile/hugocaulfield" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web development" },
+    { "name": "CI/CD" },
+    { "name": "Docker" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Javascript", "Typescript", "React", "Angular", "Vue", "Next", "Node", "Express", "Docker" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Linux", "Git" ]
+    },
+    {
+      "name": "Cloud provider",
+      "keywords": [ "OVH", "Google Cloud Platform", "AWS", "Digital Ocean" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": "Epitech",
+      "area": "Information technology",
+      "studyType": "Master.",
+      "startDate": "2018-09-01",
+      "endDate": "2023-09-01"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Ovwap",
+      "position": "Freelance Fullstack Web Developer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2023-09-01",
+      "endDate": "2023-10-01",
+      "summary": "Development and production of https://yumeet.fr/",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Development and production of https://ovwap.fr/"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Yumeet",
+      "position": "Freelance Fullstack Web Developer",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2022-09-01",
+      "endDate": "2022-10-01",
+      "summary": "Development and production of https://yumeet.fr/",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Development and production of https://yumeet.fr/"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "company": "Velvet Consulting",
+      "position": "Fullstack Web Developer",
+      "website": "",
+      "startDate": "2021-10-01",
+      "endDate": "2023-07-08",
+      "summary": "Creation and full development of a staffing tracking application in Angular and Node and deployment on Google Cloud Platform.",
+      "highlights": [
+        "Creation and full development of a staffing tracking application in Angular and Node and deployment on Google Cloud Platform.",
+        "A Snowflake connector for facebook ads and snowflake",
+        "A Snowflake connector for AT Internet and snowflake"
+      ]
+    },
+    {
+      "company": "KAA Production",
+      "position": "Fullstack Web Developer",
+      "website": "listn.live",
+      "startDate": "2021-01-01",
+      "endDate": "2021-04-01",
+      "summary": "Development and production launch of the listn.live web application",
+      "highlights": [
+        "Development and production launch of the listn.live web application",
+        "Creation of a web application for administering Listn"
+      ]
+    },
+    {
+      "company": "WaltR",
+      "position": "C++/Web Developer",
+      "website": "",
+      "startDate": "2020-09-01",
+      "endDate": "2021-03-01",
+      "summary": "C++/Web Developer",
+      "highlights": [
+        "Parallelization of an application calculating a distance from a photo",
+        "Design of a web interface to display air quality data for Occitanie"
+      ]
+    },
+    {
+      "company": "BOTdesign",
+      "position": "Front-End Web Developer",
+      "website": "",
+      "startDate": "2019-09-01",
+      "endDate": "2019-12-01",
+      "summary": "Front-End Web Developer",
+      "highlights": [
+        "Integrating a dashboard into a web application in Angular while addressing healthcare issues"
+      ]
+    },
+    {
+      "company": "BOTdesign",
+      "position": "Front-End Web Developer",
+      "website": "",
+      "startDate": "2019-09-01",
+      "endDate": "2019-12-01",
+      "summary": "Integrating a dashboard into a web application in Angular while addressing healthcare issues",
+      "highlights": [
+        "Integrating a dashboard into a web application in Angular while addressing healthcare issues"
+      ]
+    },
   ],
   "references": [
     {
