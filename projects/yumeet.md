@@ -11,39 +11,76 @@ labels:
   - Node.js
   - OVH
   - SSL
-summary: "Development and production of https://yumeet.fr/"
+summary: "Development and production of [Yumeet](https://yumeet.fr/)"
 ---
 
-<img class="img-fluid" src="../img/yumeet_view_profile.png">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+    <img class="img-fluid" src="../img/yumeet_view_profile.png" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
 
-![Yumeet](../img/yumeet_view_profile.png)
+  <div style="flex: 2; text-align: left;">
+    As the developer of Yumeet.fr, I crafted a unique experience for entrepreneurs, focusing on simplicity and efficiency.
 
-As the developer of yumeet.fr, I crafted a unique experience for entrepreneurs, focusing on simplicity and efficiency.
+    Built with technologies such as Next.js, Airtable, Node.js, and deployed on the OVH platform with an added layer of SSL security, Yumeet.fr provides an elegant mobile solution for professional networking.
+  </div>
+</div>
 
-Built with technologies such as Next.js, Airtable, Node.js, and deployed on the OVH platform with an added layer of SSL security, yumeet.fr provides an elegant mobile solution for professional networking.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2; text-align: right;">
+    The secure login page, developed with subtle animations, ensures a secure interaction with the Airtable database.
+  </div>
 
-![Yumeet](../img/yumeet_login.png)
+  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+    <img src="../img/yumeet_login.png" alt="Yumeet Login" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+</div>
 
-The secure login page, developed with subtle animations, ensures a secure interaction with the Airtable database.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+    <img src="../img/yumeet_register.png" alt="Yumeet Register" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="../img/yumeet_welcome.png" alt="Yumeet Welcome" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
 
-![Yumeet](../img/yumeet_register.png)
-![Yumeet](../img/yumeet_welcome.png)
-Registration, a crucial step, guides users through an animated sequence before leading them to the main page.
+  <div style="flex: 2; text-align: left;">
+    Registration, a crucial step, guides users through an animated sequence before leading them to the main page.
+  </div>
+</div>
 
-![Yumeet](../img/yumeet_new_profile.png)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2; text-align: right;">
+    On this central page, I emphasized customization. Each element, from changing the profile picture to managing the contact card, is intuitively editable to meet the unique needs of each user.
+  </div>
 
-On this central page, I emphasized customization. Each element, from changing the profile picture to managing the contact card, is intuitively editable to meet the unique needs of each user.
+  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+    <img src="../img/yumeet_new_profile.png" alt="Yumeet New Profile" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+</div>
 
-![Yumeet](../img/yumeet_edit_profile.png)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+    <img src="../img/yumeet_edit_profile.png" alt="Yumeet Edit Profile" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
 
-A handy feature even allows the direct import of contacts to iOS and Android devices, simplifying the process of updating professional networks.
+  <div style="flex: 2; text-align: left;">
+    A handy feature even allows the direct import of contacts to iOS and Android devices, simplifying the process of updating professional networks.
+  </div>
+</div>
 
-![Yumeet](../img/yumeet_view_profile.png)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2; text-align: right;">
+    In addition to its utility for logged-in members, Yumeet.fr also serves as a compelling showcase for non-connected visitors, subtly presenting the features that await them after registration.
+  </div>
 
-In addition to its utility for logged-in members, yumeet.fr also serves as a compelling showcase for non-connected visitors, subtly presenting the features that await them after registration.
+  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+    <img src="../img/yumeet_view_profile.png" alt="Yumeet View Profile" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+</div>
 
-The visual design, derived from meticulously integrated mockups, is characterized by its minimalism and elegance. Subtle animations add a touch of friendliness to the user experience without sacrificing the simplicity that defines the site's strength.
+<div style="text-align: left;">
+  The visual design, derived from meticulously integrated mockups, is characterized by its minimalism and elegance. Subtle animations add a touch of friendliness to the user experience without sacrificing the simplicity that defines the site's strength.
 
-In summary, yumeet.fr is more than just a social network for entrepreneurs; it's a creation I carefully shaped to deliver a smooth, practical, and personalized experience in the demanding realm of professional networking.
+  In summary, Yumeet.fr is more than just a social network for entrepreneurs; it's a creation I carefully shaped to deliver a smooth, practical, and personalized experience in the demanding realm of professional networking.
+</div>
 
-Source on demand: <a href="https://github.com/HugoCaulfield"><i class="large github icon "></i>Yumeet</a>, contact me
+Source on demand: [Yumeet on GitHub](https://github.com/HugoCaulfield), contact me
