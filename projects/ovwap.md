@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bootstrap-icons.svg
+image: /img/ovwap_main.png
 title: "Ovwap"
 date: 2023
 published: true
