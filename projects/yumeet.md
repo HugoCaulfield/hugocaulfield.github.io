@@ -85,4 +85,7 @@ summary: "Development and production of [Yumeet](https://yumeet.fr/)"
   In summary, Yumeet.fr is more than just a social network for entrepreneurs; it's a creation I carefully shaped to deliver a smooth, practical, and personalized experience in the demanding realm of professional networking.
 </div>
 
-Source on demand: [Yumeet on GitHub](https://github.com/HugoCaulfield), contact me
+
+<div style="text-align: left;">
+  Source on demand: [Yumeet on GitHub](https://github.com/HugoCaulfield), contact me
+</div>
