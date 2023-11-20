@@ -77,9 +77,11 @@ summary: "Development and production of [Yumeet](https://yumeet.fr/)"
   </div>
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: left; margin-bottom: 20px;">
   The visual design, derived from meticulously integrated mockups, is characterized by its minimalism and elegance. Subtle animations add a touch of friendliness to the user experience without sacrificing the simplicity that defines the site's strength.
+</div>
 
+<div style="text-align: left;">
   In summary, Yumeet.fr is more than just a social network for entrepreneurs; it's a creation I carefully shaped to deliver a smooth, practical, and personalized experience in the demanding realm of professional networking.
 </div>
 
