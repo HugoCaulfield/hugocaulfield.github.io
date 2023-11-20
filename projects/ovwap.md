@@ -10,30 +10,56 @@ labels:
   - Express
   - MongoDB
   - OVH
-summary: "Development and production of https://ovwap.fr/"
+summary: "Development and production of [Ovwap](https://ovwap.fr/)"
 ---
 
-![Ovwap](../img/ovwap_main.png)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+    <img class="img-fluid" src="../img/ovwap_main.png" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
 
-As the developer of Ovwap, my role was to design a web application offering a robust alternative for traders looking to actively engage in the CME financial markets.
-The platform features an innovative program that allows traders to access funding for their transactions, establishing a mutually beneficial relationship. In addition to financial opportunities, our platform provides exclusive resources, advanced analytical tools, and a dynamic community to foster ongoing skill development.
+  <div style="flex: 2; text-align: left;">
+    As the developer of Ovwap, my role was to design a web application offering a robust alternative for traders looking to actively engage in the CME financial markets.
+    The platform features an innovative program that allows traders to access funding for their transactions, establishing a mutually beneficial relationship. In addition to financial opportunities, our platform provides exclusive resources, advanced analytical tools, and a dynamic community to foster ongoing skill development.
+  </div>
+</div>
 
-Built with React, Express, MongoDB, and hosted on OVH, this platform offers a secure and dynamic trading simulation experience.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2; text-align: right;">
+    The secure login page, enriched with input fields and animations, communicates seamlessly with the backend and a password-protected database. In contrast to traditional setups, user accounts are not self-registered; instead, administrators have the exclusive capability to create accounts.
+  </div>
 
-![Ovwap](../img/ovwap_register.png)
+  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+    <img src="../img/ovwap_register.png" alt="Ovwap Register" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+</div>
 
-The secure login page, enriched with input fields and animations, communicates seamlessly with the backend and a password-protected database. In contrast to traditional setups, user accounts are not self-registered; instead, administrators have the exclusive capability to create accounts.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+    <img src="../img/ovwap_admin.png" alt="Ovwap Admin" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
 
-![Ovwap](../img/ovwap_admin.png)
+  <div style="flex: 2; text-align: left;">
+    For this purpose, I implemented an administrator page, allowing the creation, suspension, or updating of any account on the platform. Accessible only to designated administrators, this page provides direct management access to the underlying database.
+  </div>
+</div>
 
-For this purpose, I implemented an administrator page, allowing the creation, suspension, or updating of any account on the platform. Accessible only to designated administrators, this page provides direct management access to the underlying database.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2; text-align: right;">
+    The main page of the application is a hub of various elements, featuring the integration of the TradingView library with custom modifications.
+    Noteworthy adaptations include direct drag-and-drop functionality onto the chart and buttons. These enhancements were achieved through direct modifications to the library.
+    Additionally, a trading execution panel enables users to place different orders, executed on Tradovate, our broker.
+  </div>
 
-![Ovwap](../img/ovwap_main.png)
+  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+    <img src="../img/ovwap_main.png" alt="Ovwap Main" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </div>
+</div>
 
-The main page of the application is a hub of various elements, featuring the integration of the TradingView library with custom modifications.
-Noteworthy adaptations include direct drag-and-drop functionality onto the chart and buttons. These enhancements were achieved through direct modifications to the library.
-Additionally, a trading execution panel enables users to place different orders, executed on Tradovate, our broker.
+<div style="text-align: left; margin-bottom: 20px;">
+  Furthermore, the platform includes customizable components, allowing users to freely move and resize them according to their preferences. This flexibility enhances the user experience, providing a tailored approach to trading simulation.
+</div>
 
-Furthermore, the platform includes customizable components, allowing users to freely move and resize them according to their preferences. This flexibility enhances the user experience, providing a tailored approach to trading simulation.
-
-Source on demand: [Ovwap on GitHub](https://github.com/HugoCaulfield), contact me
+<div style="text-align: left;">
+  Source on demand: [Ovwap on GitHub](https://github.com/HugoCaulfield), contact me
+</div>
