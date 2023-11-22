@@ -11,7 +11,7 @@ labels:
   - Node.js
   - OVH
   - SSL
-summary: "Development and production of [Yumeet](https://yumeet.fr/)"
+summary: "Development and production of Yumeet https://yumeet.fr/"
 ---
 
 <div style="display: flex; align-items: center;">
@@ -21,7 +21,9 @@ summary: "Development and production of [Yumeet](https://yumeet.fr/)"
 
   <div style="flex: 2; text-align: left;">
     As the developer of Yumeet.fr, I crafted a unique experience for entrepreneurs, focusing on simplicity and efficiency.
+  </div>
 
+  <div style="flex: 2; text-align: left;">
     Built with technologies such as Next.js, Airtable, Node.js, and deployed on the OVH platform with an added layer of SSL security, Yumeet.fr provides an elegant mobile solution for professional networking.
   </div>
 </div>
@@ -77,15 +79,15 @@ summary: "Development and production of [Yumeet](https://yumeet.fr/)"
   </div>
 </div>
 
-<div style="text-align: left; margin-bottom: 20px;">
+<div style="text-align: left; margin-top: 20px;">
   The visual design, derived from meticulously integrated mockups, is characterized by its minimalism and elegance. Subtle animations add a touch of friendliness to the user experience without sacrificing the simplicity that defines the site's strength.
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: left; margin-bottom: 20px;">
   In summary, Yumeet.fr is more than just a social network for entrepreneurs; it's a creation I carefully shaped to deliver a smooth, practical, and personalized experience in the demanding realm of professional networking.
 </div>
 
 
 <div style="text-align: left;">
-  Source on demand: [Yumeet on GitHub](https://github.com/HugoCaulfield), contact me
+  Source on demand: https://github.com/HugoCaulfield, contact me
 </div>

@@ -4,10 +4,9 @@
     "label": "Freelance",
     "picture": "https://dam.malt.com/208225fc-0621-44f4-a9c7-fafd6e65dc2a?gravity=face&func=face&face_margin=70&w=440&h=440&force_format=webp",
     "email": "hugo.caulfield@gmail.com",
-    "phone": "808-333-4444",
     "website": "https://hugocaulfield.github.io",
-    "summary": "J'interviens sur des missions fullstack. Je vous propose un accompagnement du développement de votre projet à sa mise en production. React.js / Vue.js / Angular - Node.js / Express",
-    "location": { "address": "", "postalCode": "", "city": "", "countryCode": "FRA", "region": "France" },
+    "summary": "I work on fullstack projects. I offer support from the development of your project through to its production launch. React.js / Vue.js / Angular - Node.js / Express",
+    "location": { "countryCode": "FRA", "region": "France" },
     "profiles": [
       { "network": "Github", "username": "Hugo Caulfield", "url": "https://github.com/HugoCaulfield" },
       { "network": "Linkedin", "username": "Hugo Caulfield", "url": "https://www.linkedin.com/in/hugo-caulfield-a07017187/" },
@@ -36,8 +35,8 @@
   "education": [
     {
       "institution": "Epitech",
-      "area": "Information technology",
-      "studyType": "Master.",
+      "area": "From 2018 to 2021 Epitech Grande École programme, then from 2021 to 2023 Epitech MSc Pro Alternance",
+      "studyType": "Master",
       "startDate": "2018-09-01",
       "endDate": "2023-09-01"
     }
