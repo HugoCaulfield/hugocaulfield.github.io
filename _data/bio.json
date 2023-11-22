@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Hugo Caulfield",
+    "label": "Freelance",
+    "picture": "https://dam.malt.com/208225fc-0621-44f4-a9c7-fafd6e65dc2a?gravity=face&func=face&face_margin=70&w=440&h=440&force_format=webp",
+    "email": "hugo.caulfield@gmail.com",
+    "website": "https://hugocaulfield.github.io",
+    "summary": "I work on fullstack projects. I offer support from the development of your project through to its production launch. React.js / Vue.js / Angular - Node.js / Express",
+    "location": { "countryCode": "FRA", "region": "France" },
+    "profiles": [
+      { "network": "Github", "username": "Hugo Caulfield", "url": "https://github.com/HugoCaulfield" },
+      { "network": "Linkedin", "username": "Hugo Caulfield", "url": "https://www.linkedin.com/in/hugo-caulfield-a07017187/" },
+      { "network": "Malt", "username": "Hugo Caulfield", "url": "https://www.malt.fr/profile/hugocaulfield" }
+    ]
+  },
+  "interests": [
+    { "name": "Web development" },
+    { "name": "CI/CD" },
+    { "name": "Docker" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Javascript", "Typescript", "React", "Angular", "Vue", "Next", "Node", "Express", "Docker" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Linux", "Git" ]
+    },
+    {
+      "name": "Cloud provider",
+      "keywords": [ "OVH", "Google Cloud Platform", "AWS", "Digital Ocean" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Epitech",
+      "area": "From 2018 to 2021 Epitech Grande École programme, then from 2021 to 2023 Epitech MSc Pro Alternance",
+      "studyType": "Master",
+      "startDate": "2018-09-01",
+      "endDate": "2023-09-01"
+    }
+  ],
+  "work": [
+    {
+      "company": "Ovwap",
+      "position": "Freelance Fullstack Web Developer",
+      "website": "",
+      "startDate": "2023-09-01",
+      "endDate": "2023-10-01",
+      "summary": "Development and production of https://yumeet.fr/",
+      "highlights": [
+        "Development and production of https://ovwap.fr/"
+      ]
+    },
+    {
+      "company": "Yumeet",
+      "position": "Freelance Fullstack Web Developer",
+      "website": "",
+      "startDate": "2022-09-01",
+      "endDate": "2022-10-01",
+      "summary": "Development and production of https://yumeet.fr/",
+      "highlights": [
+        "Development and production of https://yumeet.fr/"
+      ]
+    },
+    {
+      "company": "Velvet Consulting",
+      "position": "Fullstack Web Developer",
+      "website": "",
+      "startDate": "2021-10-01",
+      "endDate": "2023-07-08",
+      "summary": "Creation and full development of a staffing tracking application in Angular and Node and deployment on Google Cloud Platform.",
+      "highlights": [
+        "Creation and full development of a staffing tracking application in Angular and Node and deployment on Google Cloud Platform.",
+        "A Snowflake connector for facebook ads and snowflake",
+        "A Snowflake connector for AT Internet and snowflake"
+      ]
+    },
+    {
+      "company": "KAA Production",
+      "position": "Fullstack Web Developer",
+      "website": "listn.live",
+      "startDate": "2021-01-01",
+      "endDate": "2021-04-01",
+      "summary": "Development and production launch of the listn.live web application",
+      "highlights": [
+        "Development and production launch of the listn.live web application",
+        "Creation of a web application for administering Listn"
+      ]
+    },
+    {
+      "company": "WaltR",
+      "position": "C++/Web Developer",
+      "website": "",
+      "startDate": "2020-09-01",
+      "endDate": "2021-03-01",
+      "summary": "C++/Web Developer",
+      "highlights": [
+        "Parallelization of an application calculating a distance from a photo",
+        "Design of a web interface to display air quality data for Occitanie"
+      ]
+    },
+    {
+      "company": "BOTdesign",
+      "position": "Front-End Web Developer",
+      "website": "",
+      "startDate": "2019-09-01",
+      "endDate": "2019-12-01",
+      "summary": "Front-End Web Developer",
+      "highlights": [
+        "Integrating a dashboard into a web application in Angular while addressing healthcare issues"
+      ]
+    },
+    {
+      "company": "BOTdesign",
+      "position": "Front-End Web Developer",
+      "website": "",
+      "startDate": "2019-09-01",
+      "endDate": "2019-12-01",
+      "summary": "Integrating a dashboard into a web application in Angular while addressing healthcare issues",
+      "highlights": [
+        "Integrating a dashboard into a web application in Angular while addressing healthcare issues"
+      ]
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
