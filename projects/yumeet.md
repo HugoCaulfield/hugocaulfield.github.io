@@ -15,7 +15,7 @@ summary: "Development and production of Yumeet https://yumeet.fr/"
 ---
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
     <img class="img-fluid" src="../img/yumeet_view_profile.png" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 
@@ -34,13 +34,13 @@ summary: "Development and production of Yumeet https://yumeet.fr/"
     The secure login page, developed with subtle animations, ensures a secure interaction with the Airtable database.
   </div>
 
-  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+  <div style="flex: 1; margin-left: 20px;">
     <img src="../img/yumeet_login.png" alt="Yumeet Login" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
     <img src="../img/yumeet_register.png" alt="Yumeet Register" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <img src="../img/yumeet_welcome.png" alt="Yumeet Welcome" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
@@ -55,13 +55,13 @@ summary: "Development and production of Yumeet https://yumeet.fr/"
     On this central page, I emphasized customization. Each element, from changing the profile picture to managing the contact card, is intuitively editable to meet the unique needs of each user.
   </div>
 
-  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+  <div style="flex: 1; margin-left: 20px;">
     <img src="../img/yumeet_new_profile.png" alt="Yumeet New Profile" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
     <img src="../img/yumeet_edit_profile.png" alt="Yumeet Edit Profile" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 
@@ -75,7 +75,7 @@ summary: "Development and production of Yumeet https://yumeet.fr/"
     In addition to its utility for logged-in members, Yumeet.fr also serves as a compelling showcase for non-connected visitors, subtly presenting the features that await them after registration.
   </div>
 
-  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+  <div style="flex: 1; margin-left: 20px;">
     <img src="../img/yumeet_view_profile.png" alt="Yumeet View Profile" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 </div>

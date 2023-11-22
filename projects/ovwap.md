@@ -14,7 +14,7 @@ summary: "Development and production of Ovwap https://ovwap.fr/"
 ---
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
     <img class="img-fluid" src="../img/ovwap_main.png" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 
@@ -43,13 +43,13 @@ summary: "Development and production of Ovwap https://ovwap.fr/"
   </div>
   
 
-  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+  <div style="flex: 1; margin-left: 20px;">
     <img src="../img/ovwap_register.png" alt="Ovwap Register" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-width: 20%; margin-right: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
     <img src="../img/ovwap_admin.png" alt="Ovwap Admin" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 
@@ -76,7 +76,7 @@ summary: "Development and production of Ovwap https://ovwap.fr/"
     </div>
   </div>
 
-  <div style="flex: 1; max-width: 20%; margin-left: 20px;">
+  <div style="flex: 1; margin-left: 20px;">
     <img src="../img/ovwap_main.png" alt="Ovwap Main" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </div>
 </div>
